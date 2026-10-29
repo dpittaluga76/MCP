@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "hubspot": {
+      "command": "C:\\Users\\Usuario\\mcp\\claude\\hubspot-mcp\\.venv\\Scripts\\python.exe",
+      "args": ["C:\\Users\\Usuario\\mcp\\claude\\hubspot-mcp\\server.py"]
+    }
+  }
+}

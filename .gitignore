@@ -1,0 +1,13 @@
+# Secrets (repo-wide safety net; subfolders have their own .gitignore too)
+.env
+.env.*
+!.env.example
+service_key.txt
+*.pem
+*.key
+.mcp.json
+
+# Python
+.venv/
+__pycache__/
+*.py[cod]
